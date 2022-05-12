@@ -1,4 +1,4 @@
-# Noise reduction using mean noisy images
+# Noise reduction using K noisy images
 
 ## first adding sound to the original image and creating 50 new noisy images
 ### Then getting the mean of the images by adding them together and dividing by K (where K = number of noisy images used)
